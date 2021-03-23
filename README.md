@@ -30,3 +30,23 @@
     <td>Yes</td>
   </tr>
 </table>
+
+Now trying to Markdown version:
+
+# H1 #
+## H2 ##
+### H3 ###
+
+**BOLD**
+
+_italic_
+
+* Bullet 1
+* Bullet 2
+* Bullet 3
+
+Col 1 | Col 2 | Col 3 |
+|-----|-----|-----|
+|Data 1 | Data 2 | Data 3
+
+
